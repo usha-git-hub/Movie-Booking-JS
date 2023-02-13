@@ -206,8 +206,8 @@ function openAboutModal(){
     <br />
     For More Info Contact Us @
     <br />
-    <h4>Mr Rahul Vishwakarma</h4>
-    <h4>Cont : 8779201698</h4>
+    <h4>Miss Usha Kumari</h4>
+    <h4>Cont : 6203225407</h4>
     `
 }
 
